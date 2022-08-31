@@ -39,9 +39,19 @@ Class Code: 659113-116
 
 https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button#0
 
-- Lesson 5, Layouts
+- Lesson 5, Layouts (Codelab)
 
 https://developer.android.com/courses/pathways/android-development-with-kotlin-5
+
+## Day 3
+
+Link to Navigation Code
+
+https://developer.android.com/courses/pathways/android-development-with-kotlin-6
+
+Lab 7
+
+https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
 # Notes
 
@@ -54,3 +64,11 @@ Android docs on Kiosk Apps
 Sample Kiosk App
 
     https://github.com/flipperguy/kiosk
+
+Additional Training Material (Outline & Slides)
+
+    https://developer.android.com/teach
+
+Additional Training Material (Learning Path - Code Labs)
+
+    https://developer.android.com/courses/android-development-with-kotlin/course
