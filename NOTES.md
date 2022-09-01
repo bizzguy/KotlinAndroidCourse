@@ -53,6 +53,21 @@ Lab 7
 
 https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
+# Day 4
+
+## Agenda
+
+- review of day 3 topics (specifically lesson 6 - Navigation)
+- Lesson 8 (App Architecture - UI)
+- Lesson 9 (App Architecture - Data)
+- Lesson 10 (Advanced Recycler View)
+
+# Day 5
+
+- Lesson 11 (Connect to Internet)
+- Lesson 12 (Repository Pattern and Work Manager)
+- Kiosk App
+
 # Notes
 
 Android docs on Kiosk Apps
