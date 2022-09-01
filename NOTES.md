@@ -4,6 +4,8 @@ Android Studio with Java
 - jamesharmon@gmail.com
 - https://www.linkedin.com/in/jamesharmonandroid/
 
+This File: https://github.com/bizzguy/KotlinAndroidCourse
+
 # Day 1
 
 ## Agenda
@@ -62,6 +64,13 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
   https://github.com/bizzguy/06-AndroidTrivia-final
 
 - Lesson 8 (App Architecture - UI)
+
+  Simple ViewModel / LiveData demo (from Ken Kousen)
+  https://github.com/kousen/MyViewModelDemo
+
+  Ken's NewsLetter
+  https://kenkousen.substack.com/subscribe?utm_medium=email&utm_source=post&utm_content=69711714
+
 - Lesson 9 (App Architecture - Data)
 - Lesson 10 (Advanced Recycler View)
 
