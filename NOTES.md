@@ -63,6 +63,9 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
   https://github.com/bizzguy/06-AndroidTrivia-final
 
+  Jake Wharton
+  https://twitter.com/JakeWharton
+
 - Lesson 8 (App Architecture - UI)
 
   Simple ViewModel / LiveData demo (from Ken Kousen)
