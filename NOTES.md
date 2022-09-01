@@ -58,6 +58,9 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 ## Agenda
 
 - review of day 3 topics (specifically lesson 6 - Navigation)
+
+  https://github.com/bizzguy/06-AndroidTrivia-final
+
 - Lesson 8 (App Architecture - UI)
 - Lesson 9 (App Architecture - Data)
 - Lesson 10 (Advanced Recycler View)
