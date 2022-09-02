@@ -27,6 +27,16 @@ https://snow.dog/blog/kiosk-mode-android/
 
 https://github.com/mrugacz95/kiosk
 
+# Exercise
+
+- Select an app from one of your working labs
+- Update the app to Kiosk mode using instructions from the article
+- Demonstrate to class
+
+# Key Technologies - Lock Task Mode
+
+https://developer.android.com/work/dpc/dedicated-devices/lock-task-mode
+
 # Key Technologies - Screen Pinning
 
 https://support.google.com/android/answer/9455138?visit_id=637976881738148717-2633853682&rd=1
@@ -36,10 +46,6 @@ https://support.google.com/android/answer/9455138?visit_id=637976881738148717-26
 https://developer.android.com/work/dpc/system-updates
 
 https://support.google.com/android/answer/9455138?visit_id=637976881738148717-2633853682&rd=1
-
-# Key Technologies - Lock Task Mode
-
-https://developer.android.com/work/dpc/dedicated-devices/lock-task-mode
 
 # Commercial vendors providing device management and setup
 
