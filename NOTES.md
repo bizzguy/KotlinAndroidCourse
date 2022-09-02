@@ -79,6 +79,9 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
 # Day 5
 
+- Review of App Arch App (Data)
+- Review App Inspector
+- Review Debugger
 - Lesson 11 (Connect to Internet)
 - Lesson 12 (Repository Pattern and Work Manager)
 - Kiosk App
