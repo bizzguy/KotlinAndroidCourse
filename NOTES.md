@@ -81,6 +81,9 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
 - Review App Inspector
 - Review Debugger
+
+  https://developer.android.com/studio/debug
+
 - Review Launch Configuration
 - Review of App Arch App (Data)
 - Lesson 11 (Connect to Internet)
