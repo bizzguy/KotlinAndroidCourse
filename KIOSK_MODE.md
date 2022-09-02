@@ -2,17 +2,17 @@
 
 # Readings related to setting up Kiosk mode
 
-    Devices at Work
+Devices at Work
 
-    https://developer.android.com/work
+https://developer.android.com/work
 
-    Dedicated Devices Overview
+Dedicated Devices Overview
 
-    https://developer.android.com/work/dpc/dedicated-devices
+https://developer.android.com/work/dpc/dedicated-devices
 
-    Dedicated Devices Cookbook
+Dedicated Devices Cookbook
 
-    https://developer.android.com/work/dpc/dedicated-devices/cookbook
+https://developer.android.com/work/dpc/dedicated-devices/cookbook
 
 # Watch
 
