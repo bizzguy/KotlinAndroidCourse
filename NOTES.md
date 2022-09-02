@@ -87,7 +87,17 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 - Review Launch Configuration
 - Review of App Arch App (Data)
 - Lesson 11 (Connect to Internet)
+
+  https://developer.android.com/courses/pathways/android-development-with-kotlin-11
+
 - Lesson 12 (Repository Pattern and Work Manager)
+
+Final Evaluations
+
+http://www.webagesolutions.com/eval
+
+Class Code: 659113-116
+
 - Kiosk App
 
 # Notes
