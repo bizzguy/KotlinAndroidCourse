@@ -90,13 +90,22 @@ https://developer.android.com/courses/pathways/android-development-with-kotlin-7
 
   https://developer.android.com/courses/pathways/android-development-with-kotlin-11
 
+  Use this for a graphic view of JSON elements:
+  JSON Visualizer - https://jsoncrack.com/editor
+
 - Lesson 12 (Repository Pattern and Work Manager)
+
+  https://developer.android.com/courses/pathways/android-development-with-kotlin-12
 
 Final Evaluations
 
 http://www.webagesolutions.com/eval
 
 Class Code: 659113-116
+
+Android Lab Survey
+
+https://www.surveymonkey.com/r/KYBN63V
 
 - Kiosk App
 
